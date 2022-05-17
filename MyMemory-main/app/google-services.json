@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919277333083",
+    "project_id": "final-exam-8691a",
+    "storage_bucket": "final-exam-8691a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919277333083:android:2bf8bad81a20b5c2976d7e",
+        "android_client_info": {
+          "package_name": "com.tiendat.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919277333083-irl08lei78ouut5qfs54j80d695uqpm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSJEKZ0bZgYFrcCFfpYs_zdeoCghP0OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919277333083-irl08lei78ouut5qfs54j80d695uqpm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
